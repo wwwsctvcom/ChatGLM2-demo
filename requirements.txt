@@ -1,0 +1,7 @@
+peft
+torch==2.0.0+cu117
+transformers==4.24.0
+sentencepiece==0.1.95
+numpy==1.24.3
+tqdm==4.65.0
+loguru==0.5.3
